@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187583377585",
+    "project_id": "thezawadiapp-cdd03",
+    "storage_bucket": "thezawadiapp-cdd03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187583377585:android:b41ebdf515af09bd34f290",
+        "android_client_info": {
+          "package_name": "com.example.thezawadiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187583377585-2ujl6o5p5uv1g52n3ovv4nl8kak8ons8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8TnANISbezsJrxq35Uv2M2NBlqkw3WGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187583377585-2ujl6o5p5uv1g52n3ovv4nl8kak8ons8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
